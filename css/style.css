@@ -1,0 +1,45 @@
+/* Setup fonts Poppins for whole header and body */
+header body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Custom CSS for top header */
+.top-header{
+    background-color: #264653;
+    color: #FFFFFF;
+}
+
+.purchase-button{
+    background: #E76F51;
+    color:#FFFFFF;
+    border-radius: 7px;
+    padding: 5px 30px;
+}
+
+/* Size and position of header motorcycle */
+.header-bike{
+    width: 80%;
+    padding: 50px;
+}
+
+img{
+    width: 80%;
+}
+
+/* Making gray color of first and third bikes */
+.image-gray{
+    filter: grayscale(100%);
+}
+
+/* Partial special color for section title */
+.special-color{
+    color: #E76F51;
+}
+
+.image-circled{
+    border-radius: 45%;
+}
+
+.client-name-color{
+    color: #23A6F0;
+}
