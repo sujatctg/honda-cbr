@@ -9,11 +9,17 @@ header body{
     color: #FFFFFF;
 }
 
+/* Purchase button setup for header portion */
 .purchase-button{
+    text-decoration: none;
     background: #E76F51;
     color:#FFFFFF;
     border-radius: 7px;
     padding: 5px 30px;
+}
+
+.modal-color{
+    color:black;
 }
 
 /* Size and position of header motorcycle */
@@ -36,9 +42,9 @@ img{
     color: #E76F51;
 }
 
-.image-circled{
+/* .image-circled{
     border-radius: 45%;
-}
+} */
 
 .client-name-color{
     color: #23A6F0;
